@@ -10,4 +10,4 @@ The IDA database for the translation is also provided in the repository (`idb` f
 
 **THIS WAS ONLY TESTED ON JAPANESE LOCALE, I HAVE NO IDEA IF IT WORKS ON OTHER LOCALES (it should at least make the text readable but I did not try it)**
 
-If you encounter any issues, please join the BMS Community Discord and ask your question there: https://discord.hh/Q4vKF8T
+If you encounter any issues, please join the BMS Community Discord and ask your question there: https://discord.gg/Q4vKF8T
